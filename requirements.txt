@@ -1,0 +1,5 @@
+langchain-groq
+langchain-mcp-adapters
+mcp # will automaticaaly enable us to use fastmcp
+langgraph
+#fastmcp
